@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-Highly motivated Senior Developer/Team leader with over 12 years industry experience developing on the Microsoft platform. With full software development life-cycle experience in ASP.Net, SQL Database Projects. I have worked in many different environments from managing teams to working on my own. I pride myself on having a "Can Do" attitude and an ability to solve problems enabling me deliver on time effective solutions. 
+Highly motivated Senior Developer/Team leader with over 14 years industry experience developing on the Microsoft platform. With full software development life-cycle experience in ASP.Net, SQL Database Projects. I have worked in many different environments from managing teams to working on my own. I pride myself on having a "Can Do" attitude and an ability to solve problems enabling me deliver on time effective solutions. 
 
 ### More Information
 
