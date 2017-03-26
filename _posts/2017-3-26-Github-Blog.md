@@ -12,6 +12,6 @@ From my 10 minute understanding of the settup process what we have is a static w
 
 This works as the forked repo contained the required [Jekyll](https://jekyllrb.com/) templates and configuration.  Github Pages is automatically configured to build, process and host Jekyll sites once you commit to a Github Pages or Organisation Pages repository.
 
-For me thus far all I have done is make some simple configuration changes to the supplied "Hello world" examples and as the article followed suggested I added the [Prose](prose.io) extention to make the editing of markdown a little easier.
+For me thus far all I have done is make some simple configuration changes to the supplied "Hello world" examples and as the article followed suggested I added the [Prose](http://prose.io) extention to make the editing of markdown a little easier.
 
 Perhaps in future I will install Jekyll (using the [Ruby](https://rubyinstaller.org/) cmd line) locally so I can customise and theme the blog a little more but for now I'm happy with the 10 minute setup and free hosting.
