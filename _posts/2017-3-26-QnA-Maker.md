@@ -13,7 +13,7 @@ The final piece of the project is to provide an interface.  For this you create 
 
 But if you want more ways for people to interact then you enable more of the interfaces (Called Channels in Azure), such as Facebook messenger, Slack, Skype etc.  This process is a little bit more invoved, for Facebook for example I had to create a Facebook [Page](https://www.facebook.com/Interviewmebot) and Facebook App, then give my Bot access to the page in Azure by supplying it a Page Authentication token and ID and App ID.
 
-Test out my Bot with the client below, or on FB Messenger [Page](https://www.facebook.com/Interviewmebot)
+Test out my Bot with the client below, or on [FB Messenger](https://www.facebook.com/Interviewmebot)
 
 <iframe src='https://webchat.botframework.com/embed/interviewmebot?s=juNKaKp35PQ.cwA.Ins.lI9vyDEysoQlQ7O3DPj9TEz9CwWjSCvmBqBDRy1QA6s' height='300px'></iframe>
 
