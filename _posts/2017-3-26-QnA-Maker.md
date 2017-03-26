@@ -17,4 +17,6 @@ Test out my Bot with the client below, or on [FB Messenger](https://www.facebook
 
 <iframe src='https://webchat.botframework.com/embed/interviewmebot?s=juNKaKp35PQ.cwA.Ins.lI9vyDEysoQlQ7O3DPj9TEz9CwWjSCvmBqBDRy1QA6s' height='300px'></iframe>
 
+I used a variety of tutorials to help set my Bot up, mainly [MSDN](https://blogs.msdn.microsoft.com/bluesky/2016/12/22/introduction-to-qna-maker-en/)
+
 
